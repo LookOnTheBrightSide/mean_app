@@ -1,0 +1,26 @@
+{
+  "name": "mean_app",
+  "version": "1.0.0",
+  "description": "mean stack ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LookOnTheBrightSide/mean_app.git"
+  },
+  "keywords": [
+    "mean"
+  ],
+  "author": "lookonthebrightside",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LookOnTheBrightSide/mean_app/issues"
+  },
+  "homepage": "https://github.com/LookOnTheBrightSide/mean_app#readme",
+  "dependencies": {
+    "express": "^4.12.4",
+    "mongoose": "^4.0.5"
+  }
+}
